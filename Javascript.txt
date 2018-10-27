@@ -1,0 +1,6 @@
+var a = 4.0;
+       b = 6.0;
+       result = (a+b) + (a+b);
+function DoubleAdder(a,b){
+return result;
+}

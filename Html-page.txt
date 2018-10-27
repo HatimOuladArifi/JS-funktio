@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+     <head>
+     <meta charset="UTF-8">
+     <title>Page Title</title>
+     </head>
+     <body>
+    <div id="test"></div>
+     <script src="Js-funktio.js"> </script>
+     </body>
+</html>
+The file javascript named Js-funktio.js 
+var x = 3.0;
+    y = 4.0;
+    result = (x+y) + (x+y);
+function DoubleAdder(x,y){
+return result;
+}
+document.getElementById("test").innerHTML= DoubleAdder(x, y);
