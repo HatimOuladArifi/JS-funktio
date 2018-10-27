@@ -1,0 +1,2 @@
+# JS-funktio
+function doubleAdder
